@@ -1,6 +1,6 @@
 /************************************************
  * Nom : Estalella
- * Kevin : Kevin
+ * Prenom : Kevin
  * Date: 20.11.2014
  * Version: 1.0
  * Titre: Morpion
